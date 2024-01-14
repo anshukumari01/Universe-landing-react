@@ -1,0 +1,12 @@
+@media screen and (max-width: 400px) {
+  #about,
+  #Celestials,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #gallery {
+    width: 110%;
+  }
+}

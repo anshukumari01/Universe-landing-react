@@ -1,0 +1,92 @@
+{
+  "Header": {
+    "title": "The Universe: A Cosmic Odyssey",
+    "paragraph": "Let's go for exploration of our mysterious universe. From the origins of the universe in the Big Bang to the formation of stars, galaxies, and planets, this topic takes us on a journey through the wonders of space. Click on learn more to know many exciting things about universe."
+  },
+  "About": {
+    "paragraph": "The universe is a vast and mysterious expanse of space, containing countless stars, galaxies, planets, and other celestial objects. It is believed to have originated from the Big Bang, a massive explosion that occurred approximately 13.8 billion years ago. The universe is composed of various types of matter and energy, including dark matter and dark energy, which are yet to be fully understood. Despite the vastness of the universe, scientists continue to explore and study it in order to unravel its mysteries and understand its evolution. From the formation of stars and galaxies to the extreme phenomena such as black holes and supernovae, the universe is a fascinating and complex place, with much to discover and learn."
+    
+  },
+  "Celestials": [
+    {
+      "img": "img/Celestials/01.jpg",
+      "text": "A galaxy is a massive, gravitationally bound system that consists of stars, stellar remnants, interstellar gas, dust, and dark matter Galaxies can be of any shapes and sizes.",
+      "name": "Galaxy"
+    },
+    {
+      "img": "img/Celestials/02.jpg",
+      "text": "Stars are celestial bodies composed of hot, glowing gas that emit light and heat. They vary in size, temperature, and color, and play a fundamental role in shaping the universe.",
+      "name": "Stars"
+    },
+    {
+      "img": "img/Celestials/03.jpg",
+      "text": "A solar system is a collection of planets, moons, asteroids, and comets that orbit a central star. Our solar system has eight planets centered around Sun, it is 4.6 billion years old.",
+      "name": "Solar System"
+    },
+    {
+      "img": "img/Celestials/04.jpg",
+      "text": "Planets are celestial bodies that orbit a star and do not produce their own light. They are rocky, gas giant, or ice giant. It can have moons, rings, and atmospheres, and may potentially host life.",
+      "name": "Planets"
+    },
+    {
+      "img": "img/Celestials/05.jpg",
+      "text": "Black holes are extremely dense regions in space where the gravitational pull is so strong that not even light can escape. They form when massive stars collapse.",
+      "name": "Black Hole"
+    },
+    {
+      "img": "img/Celestials/06.jpg",
+      "text": "Asteroids are small, rocky objects that orbit the Sun, mainly in the asteroid belt. Comets are icy bodies with a tail that forms as they approach the Sun.",
+      "name": "Astroids and Comet"
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "The Bubble Nebula",
+      "Image": "img/gallery/01.jpg"
+    },
+    {
+      "title": "Spiral and Supernovae",
+      "Image": "img/gallery/02.jpg"
+    },
+    {
+      "title": "Star Birth",
+      "Image": "img/gallery/03.jpg"
+    },
+    {
+      "title": "Encounter between two spiral galaxy",
+      "Image": "img/gallery/04.jpg"
+    },
+    {
+      "title": "Saturn and it's Rings",
+      "Image": "img/gallery/05.jpg"
+    },
+    {
+      "title": "Jupiter's Swirling Colorful Clouds",
+      "Image": "img/gallery/06.jpg"
+    },
+    {
+      "title": "Death of a Star",
+      "Image": "img/gallery/07.jpg"
+    },
+    {
+      "title": "A Green Cosmic Arc",
+      "Image": "img/gallery/08.jpg"
+    },
+    {
+      "title": "Cosmic Dust",
+      "Image": "img/gallery/09.jpg"
+    }
+  ],
+  
+  
+  
+  "Contact": {
+    "address": "4321 Delhi, India ",
+    "phone": "+91 123 456 7890",
+    "email": "universe@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+
+}
