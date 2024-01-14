@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Universe-landing-react%20/static/css/main.7982bdd1.css",
+    "main.js": "/Universe-landing-react%20/static/js/main.0500ac52.js",
+    "index.html": "/Universe-landing-react%20/index.html",
+    "main.7982bdd1.css.map": "/Universe-landing-react%20/static/css/main.7982bdd1.css.map",
+    "main.0500ac52.js.map": "/Universe-landing-react%20/static/js/main.0500ac52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7982bdd1.css",
+    "static/js/main.0500ac52.js"
+  ]
+}
